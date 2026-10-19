@@ -1,5 +1,6 @@
 
 {
+  "id": "./",
   "name": "RAG Employee Attendance",
   "short_name": "RAG Attendance",
   "start_url": "./",
@@ -10,9 +11,9 @@
   "icons": [
     {
       "src": "./rag-logo.png.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "sizes": "1080x1080",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
-      
