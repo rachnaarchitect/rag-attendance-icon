@@ -10,8 +10,14 @@
   "background_color": "#172D4D",
   "icons": [
     {
-      "src": "./rag-logo.png.png",
-      "sizes": "1080x1080",
+      "src": "./rag-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./rag-icon-512.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
